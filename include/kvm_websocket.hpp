@@ -11,7 +11,7 @@ namespace crow
 namespace obmc_kvm
 {
 
-static constexpr const uint maxSessions = 4;
+static constexpr const uint maxSessions = 1;
 
 class KvmSession
 {
